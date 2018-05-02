@@ -1,4 +1,4 @@
-# Kata: Karate Chop
+# Kata: Acronym Solver
 
 ## Challenge
 
