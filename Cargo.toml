@@ -1,0 +1,6 @@
+[package]
+name = "kata-anacronym"
+version = "0.1.0"
+authors = ["Billie Thompson <billie@billiecodes.com>"]
+
+[dependencies]
